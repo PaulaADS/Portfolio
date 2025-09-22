@@ -1,4 +1,5 @@
 # 🌐 Portfólio Pessoal - Paula Renata de Oliveira
+![Preview do Portfólio](./screenshot.png)
 
 Este é o meu **primeiro projeto de portfólio** desenvolvido com **HTML5, CSS3 e JavaScript**.  
 O objetivo é apresentar minhas informações, habilidades e projetos de forma simples e responsiva. 🚀
