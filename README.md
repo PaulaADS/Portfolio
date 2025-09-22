@@ -31,7 +31,7 @@ O objetivo é apresentar minhas informações, habilidades e projetos de forma s
 ## 🚀 Como acessar
 
 👉 Você pode acessar meu portfólio online pelo link:  
-[**🔗 Clique aqui para ver o site**](https://paulaads.github.io/portfolio)  
+[**🔗 Clique aqui para ver o site**](https://paulaads.github.io/Portfolio)  
 
 ---
 
