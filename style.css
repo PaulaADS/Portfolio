@@ -55,3 +55,72 @@ footer {
   color: white;
   margin-top: 20px;
 }
+
+nav {
+  position: fixed;
+  top: 0;
+  width:100%;
+  background: #0077b6;
+  padding: 10px 0;
+  z-index: 1000;
+}
+
+nav ul {
+  list-style: none;
+  display:flex;
+  justify-content: center;
+  gap: 20px;
+  margin:0;
+  padding: 0;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+nav ul li a:houver {
+  color: #90e0ef;
+}
+
+/*Compensar o espaço da navbar */
+
+header {
+  padding-top: 70px;
+}
+
+/* Botão Dark Mode */
+
+#darkModeToggle {
+  margin-left: 20px;
+  padding: 5px 10px;
+  background: #90e0ef;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px;
+ }
+
+#darkModeToggle:houver {
+  background: #48cae4;
+}
+
+/*dark mode*/
+body.dark-mode {
+  background: #121212;
+  color: #f5f5f5;
+}
+
+body.dark-mode nav {
+  background: #333;
+}
+body.dark-mode nav ul li a {
+  color: #f5f5f5;
+}
+
+body.dark-mode #darkModeToggle {
+  background: #222;
+  color: #f5f5f5;
+}

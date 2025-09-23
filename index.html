@@ -8,6 +8,20 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+
+    <!--Navbar fixa-->
+
+    <nav>
+      <ul>
+        <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#habilidades">Habilidades</a></li>
+        <li><a href="#projetos">Projetos</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+      <!-- Botão de dark mode-->
+       <button id="darkModeToggle">🌙</button>
+    </nav>
+    
     <!--header -->
     <header>
       <h1>Paula Renata de Oliveira</h1>
@@ -68,4 +82,12 @@
       <p>© 2025 - Paula Renata de Oliveira</p>
     </footer>
   </body>
+  <script>
+    const toggle = document.getElementById('darkModeToggle');
+    toggle.addEventListener('click', () => {
+      document.body.classList.toggle('dark-mode');
+      toggle.textContent = document.body.classList.contains('dark-mode') ? '☀️' : 
+'🌙';
+    });
+  </script>  
 </html>
