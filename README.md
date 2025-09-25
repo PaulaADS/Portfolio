@@ -1,8 +1,5 @@
 # 🌐 Portfólio Pessoal - Paula Renata de Oliveira
-<p align="center">
-  <img src="./screenshot.png" alt="Preview do Portfólio" width="600">
-</p>
-![Preview do Portfólio](./screenshot.png)
+
 
 Bem-vindo ao meu portfólio!
 Aqui você encontra meus projetos desenvolvidos em **HTML5, CSS3 e JavaScript**, além das minhas informações de contato. 🚀
@@ -20,7 +17,6 @@ Aqui você encontra meus projetos desenvolvidos em **HTML5, CSS3 e JavaScript**,
 
 ## Demonstração
 
-```markdown
 ![Portfólio Screenshot](./screenshot.png)
 
 ## 🛠️ Tecnologias Utilizadas
