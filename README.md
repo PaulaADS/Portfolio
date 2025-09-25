@@ -22,15 +22,15 @@ Aqui você encontra meus projetos desenvolvidos em **HTML5, CSS3 e JavaScript**,
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**
-- **CSS3**
-- **JavaScript**
+- **CSS3** (Flexbox, Grid e responsividade)
+- **JavaScript** (interações e Dark Mode)
 - **Git e GitHub** para versionamento e hospedagem.
 
 ---
 
-## 🚀 Como acessar
+## 🚀 Deploy
 
-👉 Você pode acessar meu portfólio online pelo link:  
+👉 Você pode acessar meu portfólio online:  
 [**🔗 Clique aqui para ver o site**](https://paulaads.github.io/Portfolio)  
 
 ---
@@ -41,7 +41,8 @@ portfolio/
 │── index.html # Estrutura da página
 │── style.css # Estilos da página
 │── script.js # Scripts (futuras melhorias)
-
+|-- README.md
+|-- screenshot.png
 
 ---
 
